@@ -8,7 +8,7 @@ Be sure that you have the following things installed in your machine:
 
 - node 14.15.1
 
-> If you don't have node installed, a good way to do it is using [volta](https://volta.sh/), so you don't have to care about the version (in is defined in the package.json and volta will download the proper one for you)
+> If you don't have node installed, a good way to do it is using [volta](https://volta.sh/), so you don't have to care about the version (it is defined in the package.json and volta will download the proper one for you)
 
 ## Set up ⚙️
 
